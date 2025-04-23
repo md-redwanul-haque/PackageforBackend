@@ -1,5 +1,5 @@
-const { Category } = require('./schemas/category');
-const { Product } = require('./schemas/product');
+const  Category  = require('./schemas/category');
+const  Product  = require('./schemas/product');
 
 module.exports = {
   Category,

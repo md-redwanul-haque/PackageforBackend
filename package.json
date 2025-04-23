@@ -1,6 +1,6 @@
 {
   "name": "packageforbackend",
-  "version": "3.0.9",
+  "version": "3.0.11",
   "description": "Production-ready Mongoose models with TypeScript support",
   "main": "src/index.js",
   "types": "src/index.d.ts",
